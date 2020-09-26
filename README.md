@@ -19,7 +19,7 @@ Best of [[Aquaculture]] + [[Hydroponics]].
 
 We don't have to dispose of the water. It has no synthetic chemicals. It is suitable for most fresh water species fish. Can't use agriculture chemicals. If you cheat, the fish die. So it is like self-audited. 
 
-System contains earth worms. Releases locked up nutrients. Earth worms in the media bed. But how?
+System contains earth worms. Releases locked up nutrients. Earth worms in the [[Media Bed]]. But how?
 
 
 
