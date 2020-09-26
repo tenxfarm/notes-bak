@@ -5,3 +5,6 @@ Aquaculture needs to discharge 10% of the water and top up with fresh water to r
 Many local governments forcing them to now treat the water before discharging them.  
 
 Water is a waste.
+
+![[Pasted image 20200927022105.png]]
+

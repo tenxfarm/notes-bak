@@ -4,8 +4,6 @@
 2. Protect against rodents
 3. Protect against pest (locust etc.)
 
-
-
 We want closed/controlled environment agriculture (CEA). A good model is Agriplast's Prefab Dome Shaped Climate Control Greenhouse For Agriculture: https://www.indiamart.com/proddetail/climate-control-greenhouse-22296061248.html
 
 It is Rs. 1,550/Sq Meter and minimum order quantity is 2000 Sq Meter which is half acre. The half acre will cost 1550 * 2000 = Rs. 31 lakhs.
@@ -25,3 +23,6 @@ It is in Hosur and so it can immediately be procured as the farm is in Bangalore
 
 ## Cons
 The critical part that I am worried about is, this is the biggest sunk cost and we have no control over it. Without controlling or bringing this cost down, bringing the setup cost down for a 1 acre farm is highly unlikely as the greenhouse alone will take Rs. 62 lakhs.
+
+## Ventilated Greenhouse
+

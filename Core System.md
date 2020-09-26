@@ -83,3 +83,19 @@ Constant height of water level in the fish tank.
 
 ![[Pasted image 20200927013701.png]]
 
+## Decoupling the Aquaculture and Hydroponics system in Aquaponics
+
+![[Pasted image 20200927022745.png]]
+
+As build up of nitrates happens, you need to dump water. So in order to salvage the dumped water, you can use a hydroponics system near by
+
+![[Pasted image 20200927022902.png]]
+
+The idea is using a valve. If pest happens, then you can use unnatural means in the hydroponics. As the water doesn't come back to the fish. 
+
+![[Pasted image 20200927023250.png]]
+
+Basically, you can stop the audit by the plants and the fish on each other.
+
+
+

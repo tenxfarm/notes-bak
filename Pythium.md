@@ -1,0 +1,1 @@
+Collar rot. In Aquaponics about 2% loss due 

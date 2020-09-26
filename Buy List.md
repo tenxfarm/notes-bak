@@ -13,4 +13,8 @@
 # Variable
 
 1. Gravel (Every 2 years)
-2. 
+2. Fresh water test kit (Ammonia, Nitrate, Nitrite)
+3. Hydrated Lime or Calcium Carbonate (Garden Lime)
+4. Potash or Potassium hydroxide 
+5. Epsom Salt (Magnesium Sulfate) or Dolomite Lime (it has magnesium with calcium)
+6. 
