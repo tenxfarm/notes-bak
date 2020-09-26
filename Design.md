@@ -6,11 +6,12 @@ Before we can start operations we need a base setup. This setup needs to be modu
 2. [[Greenhouse]]
 3. [[Water Source]]
 4. [[Power]]
-5. [[Fish Tanks]]
-6. [[Media Beds]]
-7. [[Light]]
-8. [[Security]]
-9. [[Basic Amenities]]
-10. 
+5. [[Core System]]
+6. [[Fish Tanks]]
+7. [[Media Beds]]
+8. [[Light]]
+9. [[Security]]
+10. [[Basic Amenities]]
+11. 
 
 
