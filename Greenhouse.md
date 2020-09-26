@@ -1,3 +1,11 @@
+## Protective Farming
+
+1. Protect against weather. 
+2. Protect against rodents
+3. Protect against pest (locust etc.)
+
+
+
 We want closed/controlled environment agriculture (CEA). A good model is Agriplast's Prefab Dome Shaped Climate Control Greenhouse For Agriculture: https://www.indiamart.com/proddetail/climate-control-greenhouse-22296061248.html
 
 It is Rs. 1,550/Sq Meter and minimum order quantity is 2000 Sq Meter which is half acre. The half acre will cost 1550 * 2000 = Rs. 31 lakhs.

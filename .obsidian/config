@@ -17,5 +17,6 @@
   "spellcheckDictionary": [
     "aquaponics"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
