@@ -1,0 +1,21 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "audio-recorder": true
+  },
+  "spellcheck": true,
+  "readableLineLength": false,
+  "attachmentFolderPath": "assets",
+  "spellcheckDictionary": [
+    "aquaponics"
+  ],
+  "promptDelete": false
+}
