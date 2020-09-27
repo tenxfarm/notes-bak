@@ -4,11 +4,23 @@
 2. Sump Tank
 3. Gravel/Media Bed
 4. Floating Raft Bed
-	1. Floating Rafts
-	2. Grow Cups
-5. Swirl Filter/Settlement Tank
+	1. Floating Rafts (Polystyrene Sheets 50mm)
+	2. Net Pots Cups
+5. Swirl Filter/Settlement Tank/Clarifier
 6. Pump
-7. Pipes and Fittings
+	1. Float Switch
+	2. DC Pump (Not rated for continuous operation)
+	3. Main Pump
+7. DC Battery backup 24V
+8. Relay switch to detect power failure 
+9. Pipes and Fittings
+	1. Auto Siphon made with the pipes and fittings
+	2. PVC Glue
+10. Aeration System
+	1. Aeration pump
+	2. Airstones
+11. Tools
+	1. Drill with circular drillbit for making holes in floating raft
 
 # Variable
 
@@ -17,4 +29,9 @@
 3. Hydrated Lime or Calcium Carbonate (Garden Lime)
 4. Potash or Potassium hydroxide 
 5. Epsom Salt (Magnesium Sulfate) or Dolomite Lime (it has magnesium with calcium)
-6. 
+6. Seeds (Pellet seeds - better germination, no need to cover after placing so faster productivity, easier to handle than small seeds. Keep them in fridge)
+7. Fish food
+8. Fish
+9. Vermiculite/Perlite
+10. Seeding trays and seeding tray base
+11. 

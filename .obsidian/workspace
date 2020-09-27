@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Water Source.md",
+            "file": "Design.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "ph"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Water Source.md"
+                "file": "Design.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Water Source.md",
+    "Design.md",
     "Buy List.md",
-    "Parameters.md",
+    "Filters.md",
     "Untitled.md",
+    "Parameters.md",
     "Core System.md",
-    "README.md",
-    "dissolved oxygen.md",
-    "Aeration.md",
-    "Aquaculture.md",
-    "Design.md"
+    "Cycling The System.md",
+    "Pest.md",
+    "Pump.md",
+    "Aeration.md"
   ]
 }

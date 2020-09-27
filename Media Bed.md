@@ -6,3 +6,6 @@ Lot of surface area for bacteria to cling to and for a way to water to move past
 
 The breakdown of these solids to what the plants can use is [[mineralization]]. It occurs in all dark wet surfaces. 
 
+2 Inches of dry zone over the auto siphon. 
+
+
