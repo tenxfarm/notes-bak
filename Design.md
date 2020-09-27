@@ -134,6 +134,8 @@ Harvesting fish fish density
 
 Mineralization tank 
 
+pest stuff
+
 #### Monthly
 Water draining of media bed. If auto siphon goes off too quickly, it indicates clogging.
 DWC bottom slug accumulation. 
