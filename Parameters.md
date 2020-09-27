@@ -2,7 +2,7 @@
 
 1. pH - Acid/Base balance of the system 
 2. Temperature (water and air) 
-3. Dissolved Oxygen
+3. [[Dissolved Oxygen]]
 4. Electrical Conductivity
 
 ## pH
@@ -48,7 +48,7 @@ If a pattern occurs, where pH starts to take a lot longer to drop down, levels o
 
 ### Buffering + Nutrient Mix:
 
-Hydrated Lime/garden lime (calcium carbonate) (40 grams) + Potassium hydroxide or potassium bicarbonate (20 grams) + Epsom Salt (Magnesium Sulfate (10 grams). Add to the furthest point. Go to furthest grow bed at the auto siphon point.  
+Hydrated Lime/garden lime (calcium carbonate) (40 grams) + Potassium hydroxide or potassium bicarbonate (20 grams) + Epsom Salt (Magnesium Sulfate (10 grams). Add to the furthest point. Go to furthest grow bed at the [[Auto Siphon]] point.  
 
 Potassium bicarbonate can also be sprayed on plants. Good for killing some pests. 
 
@@ -107,7 +107,7 @@ Nitrate is very critical to follow instructions.
 
 If nitrates are high, plant more more plants or cut down on fish food. 
 
-Cycling the system:
+[[Cycling The System]]:
 Need to test pH everyday. 
 Ammonia everyday
 Nitrites 

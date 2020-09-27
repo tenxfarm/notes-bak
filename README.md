@@ -35,7 +35,7 @@ I will break this into three parts:
 	1. [[Setup company]]
 	2. [[Design]] the farm for a 1 acre land
 	3. [[Sunk Cost]]
-2. Operations
+2. [[Operations]]
 	1. [[Process Flow]]
 	2. [[Variable cost]]
 3. Scaling

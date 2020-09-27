@@ -2,7 +2,7 @@
 
 1. Protect against weather. 
 2. Protect against rodents
-3. Protect against pest (locust etc.)
+3. Protect against [[Pest]] (locust etc.)
 
 We want closed/controlled environment agriculture (CEA). A good model is Agriplast's Prefab Dome Shaped Climate Control Greenhouse For Agriculture: https://www.indiamart.com/proddetail/climate-control-greenhouse-22296061248.html
 

@@ -1,4 +1,4 @@
-Before we can start operations we need a base setup. This setup needs to be modular and self contained, so that we can replicate it to scale without worrying about existing systems. 
+Before we can start [[Operations]] we need a base setup. This setup needs to be modular and self contained, so that we can replicate it to scale without worrying about existing systems. 
 
 ## Core aspects of an aquaponics farm
 
@@ -19,13 +19,13 @@ Before we can start operations we need a base setup. This setup needs to be modu
 
 ## DESIGN EXERCISE CRITERIA
 
-You will be required to submit a drawing/sketch of an Aquaponics Design. It should be a design for a mid range home system or a small commercial system. Accompanying the design should be an explanation of the parameters you assessed and justification for decisions. You will also need to provide a management plan which could be submitted to a client.
+You will be required to submit a drawing/sketch of an Aquaponics Design. It should be a design for a mid range home system or a small commercial system. Accompanying the design should be an explanation of the [[Parameters]] you assessed and justification for decisions. You will also need to provide a management plan which could be submitted to a client.
 
 You are not required to submit green house/glasshouse designs, or lighting, or solar plans. Include notes on them, if they are relevant to your design.
 
 ## SITE MAP
 
-Choose a real site and note the actual parameters of it. Location, aspect, water access, electricity access, vehicle access, size, slope. Find the sun angles in winter and summer. Is there anything blocking the sun path? (Shade from decidious trees may be a positive in hot climates). Draw these on a site map showing the footprint of your system.
+Choose a real site and note the actual [[Parameters]] of it. Location, aspect, water access, electricity access, vehicle access, size, slope. Find the sun angles in winter and summer. Is there anything blocking the sun path? (Shade from decidious trees may be a positive in hot climates). Draw these on a site map showing the footprint of your system.
 
 Ground water level. 
 
@@ -48,7 +48,7 @@ What back up systems will you have in place?
 DC batteries. 
 Float Switch on the overhead tank.
 Relay switch on the power line.
-DC Pump for the fish tank (can we isolate? If we are using gravity)
+DC [[Pump]] for the fish tank (can we isolate? If we are using gravity)
 
 What species of fish are suitable for your climate and what are available, or permitted to be grown?
 Tilapia and Catfish. Both are available and permitted to be grown.
@@ -56,7 +56,7 @@ Tilapia and Catfish. Both are available and permitted to be grown.
 Will you need to heat the system?
 No
 
-Will you have a greenhouse? How big will it be ?
+Will you have a [[Greenhouse]]? How big will it be ?
 Yes. 10m by 30m
 
 How much produce do you require what will you grow?
@@ -86,12 +86,12 @@ Draw the plumbing, waterflows, tanks and beds in a configuration which is suitab
 ## MANAGEMENT PLAN
 Write a brief management plan for the system for a client to follow. Start with the cycling and then outline regular procedures to be carried out for management and maintenance checks. eg. How will you adjust your pH in the system?
 
-### Cycling the System
+### [[Cycling The System]]
 
 Use without fish cycling.
 
 1. Setup the system
-2. Plant some sacrificial lettuce heads in the media bed.
+2. Plant some sacrificial lettuce heads in the [[Media Bed]].
 3. Add some ammonia source (Liquid Ammonia). 
 4. Add ammonia 1 tb spoon per 1000 liters in the fish tank only (not all system).
 5. Let the water circulate for few hours
@@ -103,11 +103,11 @@ Use without fish cycling.
 
 #### Daily
 ##### pH level
-If pH trends down it is good. If it hits 6.4 pH, then boost it up with buffering agent. Hydrated Lime/garden lime (calcium carbonate) (40 grams) + Potassium hydroxide or potassium bicarbonate (20 grams) + Epsom Salt (Magnesium Sulfate (10 grams). Add to the furthest point. Go to furthest grow bed at the auto siphon point. Check pH after 24 hours and repeat to bring it up to 7.0 pH
+If pH trends down it is good. If it hits 6.4 pH, then boost it up with buffering agent. Hydrated Lime/garden lime (calcium carbonate) (40 grams) + Potassium hydroxide or potassium bicarbonate (20 grams) + Epsom Salt (Magnesium Sulfate (10 grams). Add to the furthest point. Go to furthest grow bed at the [[Auto Siphon]] point. Check pH after 24 hours and repeat to bring it up to 7.0 pH
 
 If it goes about 7.0 pH, then you will have to add some acidic agent to bring it back down. 
 
-Eyeball for pest. No leaf rot. 
+Eyeball for [[Pest]]. No leaf rot. 
 
 roots clean
 
@@ -116,7 +116,7 @@ If it gets too hot, then use fans.
 
 ##### EC
 
-##### Dry gravel at the top of the media bed
+##### Dry gravel at the top of the [[Media Bed]]
 If not dry could indicate poor draining. Replace the gravel media. 
 
 #### Weekly
@@ -126,18 +126,18 @@ If nitrites goes over 60 ppm, then add more plants or reduce fish food.
 Outlet valves for all floating raft beds to check for root clogs
 Midia bed siphon check
 
-Fish Health: Oil on texture, gills disease (pinkish red tinge), no fin rot, no lesion.  
+[[Fish]] Health: Oil on texture, gills disease (pinkish red tinge), no fin rot, no lesion.  
 
-Rock salt (non iodized salt) 20 second for the fish. And in holding tank. Potassium permagnate to kill disease (4-5 grams per 1000 liters). It is photo sensitive so needs to be done within 10 minutes. Don't use the hatchery water.
+Rock salt (non iodized salt) 20 second for the [[Fish]]. And in holding tank. Potassium permagnate to kill disease (4-5 grams per 1000 liters). It is photo sensitive so needs to be done within 10 minutes. Don't use the hatchery water.
 
-Harvesting fish fish density
+Harvesting [[Fish]] [[Fish]] density
 
 Mineralization tank 
 
-pest stuff
+[[Pest]] stuff
 
 #### Monthly
-Water draining of media bed. If auto siphon goes off too quickly, it indicates clogging.
+Water draining of [[Media Bed]]. If [[Auto Siphon]] goes off too quickly, it indicates clogging.
 DWC bottom slug accumulation. 
 slug brush
 

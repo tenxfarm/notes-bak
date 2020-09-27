@@ -20,7 +20,7 @@ For a commercial setting this is the best as it has ease of planting and harvest
 1.2m X 30m. 
 1m is 36 holes. 
 
-[[DWC System]] needs to be raised and not on the ground. The advantages is better productivity for planting and harvesting and lower pest. The closer to the ground the more the pest risk.
+[[DWC System]] needs to be raised and not on the ground. The advantages is better productivity for planting and harvesting and lower [[Pest]]. The closer to the ground the more the [[Pest]] risk.
 
 900mm or waist height elevation is good. But that also means it has to be strong as there is a lot of water.
 
@@ -61,15 +61,15 @@ Clay pebbles (Hydrotons) as expensive, have low service life and not stable for 
 
 ![[Pasted image 20200927012712.png]]
 
-> Don't change all media beds at the same time. Have a 2-4 week staging period between each media bed change. This will ensure system is stable. Else ammonia will spike and fishes will die
+> Don't change all media beds at the same time. Have a 2-4 week staging period between each [[Media Bed]] change. This will ensure system is stable. Else ammonia will spike and fishes will die
 
 ### NFT (Nutrient Film Technique)
 
-Used heavily in Hydroponics. But not suitable for Aquaponics as the solid wastes clog up the pipes. Bigger pipes lead to more failure points and water and nutrient leakages. Low cost, but lot of plumbing. Another big disadvantage is controlling the temperature as water moves thro' the pipes. 
+Used heavily in [[Hydroponics]]. But not suitable for Aquaponics as the solid wastes clog up the pipes. Bigger pipes lead to more failure points and water and nutrient leakages. Low cost, but lot of plumbing. Another big disadvantage is controlling the temperature as water moves thro' the pipes. 
 
 ## [[CHOP]] System:
 
-Constant Height One Pump. This is good for a 30m X 10m wide 5000 hole system. Ensure the backup pump is also hooked up and plumbed in. All outbound of water from the sump is by pump. 
+Constant Height One [[Pump]]. This is good for a 30m X 10m wide 5000 hole system. Ensure the backup [[Pump]] is also hooked up and plumbed in. All outbound of water from the sump is by [[Pump]]. 
 
 ![[Pasted image 20200927013239.png]]
 
@@ -83,15 +83,15 @@ Constant height of water level in the fish tank.
 
 ![[Pasted image 20200927013701.png]]
 
-## Decoupling the Aquaculture and Hydroponics system in Aquaponics
+## Decoupling the [[Aquaculture]] and [[Hydroponics]] system in Aquaponics
 
 ![[Pasted image 20200927022745.png]]
 
-As build up of nitrates happens, you need to dump water. So in order to salvage the dumped water, you can use a hydroponics system near by
+As build up of nitrates happens, you need to dump water. So in order to salvage the dumped water, you can use a [[Hydroponics]] system near by
 
 ![[Pasted image 20200927022902.png]]
 
-The idea is using a valve. If pest happens, then you can use unnatural means in the hydroponics. As the water doesn't come back to the fish. 
+The idea is using a valve. If [[Pest]] happens, then you can use unnatural means in the [[Hydroponics]]. As the water doesn't come back to the fish. 
 
 ![[Pasted image 20200927023250.png]]
 

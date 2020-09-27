@@ -6,7 +6,7 @@ Yellow sticky cloth.
 
 ![[Pasted image 20200927063059.png]]
 
-Raised media bed and floating raft bed.
+Raised [[Media Bed]] and floating raft bed.
 
 
 

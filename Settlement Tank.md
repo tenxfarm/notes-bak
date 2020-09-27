@@ -1,1 +1,1 @@
-For home use you don't really need a filter, as the media bed doubles up as a filter. But for commercial system you will need filters.
+For home use you don't really need a filter, as the [[Media Bed]] doubles up as a filter. But for commercial system you will need [[Filters]].

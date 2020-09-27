@@ -31,11 +31,11 @@ Is Nitates bad for humans? At that level we have in the system no. Most likely 6
 When you first start the system the beneficial bacteria need to be in place in the system, so the fish don't die. Two ways to do this:
 
 1. Cycling without fish (better for first time people)
-2. Cycle with fish
+2. Cycle with [[Fish]]
 
-## Cycling without fish
+## Cycling without [[Fish]]
 
-We have built the fish tanks, the media bed. The water is moving. 
+We have built the [[Fish Tanks]], the [[Media Bed]]. The water is moving. 
 
 1. Dosing the system. 
 2. Plant some plants (sacrificial plants like lettuce heads). The plants are able to take ammonia if it builds up in the system.
@@ -61,7 +61,7 @@ We have built the fish tanks, the media bed. The water is moving.
 
 ![[Pasted image 20200926234710.png]]
 
-When nitrites = nitrates. This is where you add the fish. 
+When nitrites = nitrates. This is where you add the [[Fish]]. 
 
-Use the pdf record sheet to fill every day. When you add the fish, the system becomes dynamic. The plants that you placed in the beginning, you will see them get healthy. 
+Use the pdf record sheet to fill every day. When you add the [[Fish]], the system becomes dynamic. The plants that you placed in the beginning, you will see them get healthy. 
 

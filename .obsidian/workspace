@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aedbc2f83e50e91b",
+        "id": "3cce0f9144026a01",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Design.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Design.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -76,15 +71,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Design.md",
-    "Buy List.md",
-    "Filters.md",
-    "Untitled.md",
-    "Parameters.md",
-    "Core System.md",
-    "Cycling The System.md",
-    "Pest.md",
+    "Seeds.md",
+    "Security.md",
+    "README.md",
+    "Raft.md",
+    "Pythium.md",
     "Pump.md",
-    "Aeration.md"
+    "Buy List.md",
+    "Plants.md",
+    "Pest.md",
+    "Parameters.md"
   ]
 }
