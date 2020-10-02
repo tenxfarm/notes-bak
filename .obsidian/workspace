@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Dissolved Oxygen.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Dissolved Oxygen.md"
+              }
             }
           }
         ]
@@ -71,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Seeds.md",
-    "Security.md",
+    "Dissolved Oxygen.md",
+    "Aeration.md",
+    "Fish.md",
+    "Design.md",
     "README.md",
-    "Raft.md",
-    "Pythium.md",
-    "Pump.md",
-    "Buy List.md",
-    "Plants.md",
-    "Pest.md",
-    "Parameters.md"
+    "land.md",
+    "Media Bed.md",
+    "Land Prep.md",
+    "Setup company.md",
+    "Water.md"
   ]
 }
