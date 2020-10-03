@@ -41,15 +41,15 @@ Could be contaminated. Especially if near industrial area.
 
 There are three loops:
 
-Sump -> [[Fish]] Tank -> Swirl Filter -> Sump
+[[sump]] -> [[Fish]] Tank -> Swirl Filter -> [[sump]]
 
 ![[Pasted image 20200927050523.png]]
 
-Sump -> Media Beds -> Sump
+[[sump]] -> Media Beds -> [[sump]]
 
 ![[Pasted image 20200927050626.png]]
 
-Sump -> Floating Raft Beds -> Sump
+[[sump]] -> Floating Raft Beds -> [[sump]]
 
 ![[Pasted image 20200927050656.png]]
 
@@ -69,7 +69,7 @@ The [[Media Bed]], the c1/3rd of capacity is water. The [[Auto Siphon]] works be
 
 Depending on the capacity of the [[Pump]], rest goes to [[Fish]] Tank. A good rule of thumb, if you can put half the water in the [[Fish]] tank in one hour, then it is good.
 
-How big should the Sump be? Should allow for all of the auto-siphon stops or the [[Pump]] fails. 
+How big should the [[sump]] be? Should allow for all of the auto-siphon stops or the [[Pump]] fails. 
 
 ## Swirl Filter 
 

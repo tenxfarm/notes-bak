@@ -1,12 +1,12 @@
 # One Time 
 
 1. Fish Tank
-2. Sump Tank
+2. [[sump]] Tank
 3. Gravel/[[Media Bed]]
 4. Floating Raft Bed
 	1. Floating Rafts (Polystyrene Sheets 50mm)
 	2. Net Pots Cups
-5. Swirl Filter/Settlement Tank/Clarifier
+5. Swirl Filter/[[Settlement Tank]]/Clarifier
 6. [[Pump]]
 	1. Float Switch
 	2. DC [[Pump]] (Not rated for continuous operation)

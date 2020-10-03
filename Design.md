@@ -19,13 +19,10 @@ Before we can start [[Operations]] we need a base setup. This setup needs to be 
 
 ## DESIGN EXERCISE CRITERIA
 
-You will be required to submit a drawing/sketch of an Aquaponics Design. It should be a design for a mid range home system or a small commercial system. Accompanying the design should be an explanation of the [[Parameters]] you assessed and justification for decisions. You will also need to provide a management plan which could be submitted to a client.
-
-You are not required to submit green house/glasshouse designs, or lighting, or solar plans. Include notes on them, if they are relevant to your design.
+For a farm to be commercially viable it needs to have at least 300 sq meter growing area. 
 
 ## SITE MAP
-
-Choose a real site and note the actual [[Parameters]] of it. Location, aspect, water access, electricity access, vehicle access, size, slope. Find the sun angles in winter and summer. Is there anything blocking the sun path? (Shade from decidious trees may be a positive in hot climates). Draw these on a site map showing the footprint of your system.
+Location, aspect, water access, electricity access, vehicle access, size, slope. Find the sun angles in winter and summer. Is there anything blocking the sun path? (Shade from decidious trees may be a positive in hot climates). Draw these on a site map showing the footprint of your system.
 
 Ground water level. 
 
@@ -51,7 +48,7 @@ Relay switch on the power line.
 DC [[Pump]] for the fish tank (can we isolate? If we are using gravity)
 
 What species of fish are suitable for your climate and what are available, or permitted to be grown?
-Tilapia and Catfish. Both are available and permitted to be grown.
+[[tilapia]] and Catfish. Both are available and permitted to be grown.
 
 Will you need to heat the system?
 No

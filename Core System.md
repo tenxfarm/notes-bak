@@ -44,7 +44,7 @@ Clay pebbles (Hydrotons) as expensive, have low service life and not stable for 
 > Limestone free. Limestone in gravel will spike the PH up and will be difficult to control. 
 
 #### Advantages
-1. Solid separation filter. Any solid that escapes the settlement tank is food for the microbes. This also helps clean the water that enters the raft beds.
+1. Solid separation filter. Any solid that escapes the [[Settlement Tank]] is food for the microbes. This also helps clean the water that enters the raft beds.
 2. Solids mineralization. It releases more locked nutrients.
 3. Biofilter. The beneficial bacteria reside here as the surface area is a lot.
 4. Earthworm home. Earthworms reduce solid matter by 80%.
@@ -69,7 +69,7 @@ Used heavily in [[Hydroponics]]. But not suitable for Aquaponics as the solid wa
 
 ## [[CHOP]] System:
 
-Constant Height One [[Pump]]. This is good for a 30m X 10m wide 5000 hole system. Ensure the backup [[Pump]] is also hooked up and plumbed in. All outbound of water from the sump is by [[Pump]]. 
+Constant Height One [[Pump]]. This is good for a 30m X 10m wide 5000 hole system. Ensure the backup [[Pump]] is also hooked up and plumbed in. All outbound of water from the [[sump]] is by [[Pump]]. 
 
 ![[Pasted image 20200927013239.png]]
 

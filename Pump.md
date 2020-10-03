@@ -1,3 +1,9 @@
+# Pumps
+
+There are many types of pumps. Submersible, centrifugal etc. What we want is transfer pumps.
+![[assets/Pasted image 20201004051156.png]]
+
+
 # Pump Failure
 
 1. Electricity Failure

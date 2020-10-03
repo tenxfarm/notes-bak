@@ -1,8 +1,22 @@
-## Protective Farming
+## Greenhouse Farming
 
 1. Protect against weather. 
 2. Protect against rodents
 3. Protect against [[Pest]] (locust etc.)
+
+For aquaponics, unlike hydroponics we don't need a controlled environment. It can be a ventilated greenhouse, with netted sides.
+
+![[assets/Pasted image 20201004041721.png]]
+
+Or it can be poly house with double door mechanism to ensure insects don't get in.
+
+![[assets/Pasted image 20201004041919.png]]
+
+
+
+
+
+
 
 We want closed/controlled environment agriculture (CEA). A good model is Agriplast's Prefab Dome Shaped Climate Control Greenhouse For Agriculture: https://www.indiamart.com/proddetail/climate-control-greenhouse-22296061248.html
 
