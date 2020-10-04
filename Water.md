@@ -17,13 +17,7 @@ Chlorine and Chloramine need to be tested. Need to test total chlorine and not j
 ## Degassing Top Up Water
 Holding Tank + Bubbler (Airstone) for 24 hours
 
-Chloromine is often used in place of chlorine and it is longer lasting; however it kills [[Fish]] as well as bacteria. Chloromine can be eliminated by passing the water under a UV light which breaks it down into ammonia and chlorine. The chlorine can be bubbled off and the beneficial bacteria will process the ammonia.
-
-![[Pasted image 20200927044153.png]]
-
-![[Pasted image 20200927044214.png]]
-
-Passing the water through an activated carbon filter will also remove the chloromine. It is expensive as it needs to be replaced from time to time.
+[[Chloromine]] is often used in place of chlorine and it is longer lasting; however it kills [[Fish]] as well as bacteria. Chloromine can be eliminated by passing the water under a UV light which breaks it down into ammonia and chlorine. 
 
 ## Rain water
 Rain Water as long as it is not acid rain. It might need pH adjusters. [[Greenhouse]] to rainwater collector.
@@ -36,6 +30,11 @@ Variety of problems. Acidic or Alkaline Need to test it. If it is hard, then you
 ## Lake
 
 Could be contaminated. Especially if near industrial area. 
+
+## Three Main factors for Water:
+1. [[pH]] of water. 
+2. [[Dissolved Oxygen]]
+3. [[Temperature]]
 
 # Flow Rate
 
@@ -78,9 +77,6 @@ Water needs to be there for 20 minutes.
 If you are going to put 1500 liters per hour, then it needs to be at least 500 liters. 
 
 ![[Pasted image 20200927051839.png]]
-
-
-
 
 
 

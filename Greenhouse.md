@@ -13,11 +13,6 @@ Or it can be poly house with double door mechanism to ensure insects don't get i
 ![[assets/Pasted image 20201004041919.png]]
 
 
-
-
-
-
-
 We want closed/controlled environment agriculture (CEA). A good model is Agriplast's Prefab Dome Shaped Climate Control Greenhouse For Agriculture: https://www.indiamart.com/proddetail/climate-control-greenhouse-22296061248.html
 
 It is Rs. 1,550/Sq Meter and minimum order quantity is 2000 Sq Meter which is half acre. The half acre will cost 1550 * 2000 = Rs. 31 lakhs.

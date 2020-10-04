@@ -15,6 +15,3 @@ Catfish, [[tilapia]], carp is popular.
 The system needs to be [[Balanced System]]
 
 ## Calming Fish
-
-
-
