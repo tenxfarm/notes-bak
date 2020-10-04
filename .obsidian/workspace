@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Greenhouse.md",
-            "mode": "source"
+            "file": "Fish Food.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greenhouse.md"
+                "file": "Fish Food.md"
               }
             }
           }
@@ -76,9 +76,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Fish Food.md",
     "Greenhouse.md",
     "Hydroponics.md",
-    "Fish Food.md",
     "Filters.md",
     "Auto Siphon.md",
     "backup system.md",
