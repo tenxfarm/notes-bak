@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fish Food.md",
-            "mode": "preview"
+            "file": "Fish Tanks.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fish Food.md"
+                "file": "Fish Tanks.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Fish Food.md",
+    "Fish Tanks.md",
+    "nutrient needs.md",
+    "stocking density.md",
     "Greenhouse.md",
+    "Fish Food.md",
     "Hydroponics.md",
     "Filters.md",
     "Auto Siphon.md",
     "backup system.md",
-    "Balanced System.md",
-    "buffer up pH.md",
-    "Buy List.md",
-    "Check List.md"
+    "Balanced System.md"
   ]
 }
