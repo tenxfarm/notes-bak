@@ -21,7 +21,7 @@
 7. The land is free and no need to pay lease or rent it. 
 
 ### Biggest concern:
-Water. The 2016 tests by the municipality is quite scary. Two main things is total chloride and pH. The acceptable levels of pH for us is anywhere from 6.0 to 7.2. But here it can range from 5.5 to 9.0. Chloride due to chlorine can be [[degassed]]. But [[chloramine]] would incur additional costs like UV treatment.  
+Water. The 2016 tests by the municipality is quite scary. Two main things is total chloride and pH. The acceptable levels of pH for us is anywhere from 6.0 to 7.2. But here it can range from 5.5 to 9.0. Chloride due to chlorine can be [[degassed]]. But [[Chloramine]] would incur additional costs like UV treatment.  
 
 Around 11 ground and 2 surface water samples were collected to assess the water quality. The ground water samples were drawn from the hand pumps and open wells of villages being used for domestic needs. Surface water samples were taken from major tanks / ponds.
 

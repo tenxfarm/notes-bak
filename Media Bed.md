@@ -1,4 +1,4 @@
-MEdia bed does the job of filtering and housing bacteria. They are stones, pretty big like rough soil.
+Media bed does the job of filtering and housing bacteria. They are stones, pretty big like rough soil.
 
 They have worms, microbes, beneficial bacteria. The bacterial action takes place in media bed or bio [[Filters]]. 
 
