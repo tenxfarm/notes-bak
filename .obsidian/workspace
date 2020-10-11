@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nutrient density.md",
+            "file": "nutrient needs.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nutrient density.md"
+                "file": "nutrient needs.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "nutrient density.md",
     "nutrient needs.md",
+    "Fish Food.md",
+    "nutrient density.md",
+    "stocking density.md",
     "Pest.md",
     "Plants.md",
     "Pump.md",
     "Yeild.md",
     "Untitled.md",
-    "Fish.md",
-    "Floating Raft Beds.md",
-    "Harvesting Fish.md"
+    "Fish.md"
   ]
 }

@@ -60,6 +60,8 @@ The above shows a classic case of calcium deficiency.
 
 Add 120ml per 2 days per 2500 liters running thro' the floating raft beds. System water color will become a bit dark, but it will get cleared up in a few days. 
 
+Chelated iron EDDHA 6% is a good stable source of iron. This means it breaks down easily without leaving a residue behind. It does however give a red pigmention to the water. 
+
 
 
 

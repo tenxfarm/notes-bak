@@ -1,3 +1,9 @@
+# Fish Food
+
+The food would ideally be fed to the fish in a twice a day feed regime, that is, 1kg in the morning and 1kg in the afternoon. This allows for for good processing by the fish and a more even delivery of fish waste and therefore nutrient to the filter and to the system generally.
+
+Idea is to achieve ideal [[nutrient density]] to satisfy the growing area.
+
 # Feeding tilapia from fingerlings to harvest size
 
 ## Tilapia Feeding Charts
